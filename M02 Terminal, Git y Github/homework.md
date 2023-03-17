@@ -43,8 +43,8 @@ WINDOWS $ dir
 "**Touch**" o "**TYPE NUL**": creará un nuevo archivo.
 
 ```bash
-LINUX   $ touch [nombreDelArchivo]
-WINDOWS $ type nul > [nombreDelArchivo]
+WINDOWS $ touch [nombreDelArchivo]
+LINUX $ type nul > [nombreDelArchivo]
 ```
 
 > **[NOTA]:** Recuerda que la terminal de gitbash reconoce los comandos de linux.
